@@ -292,6 +292,7 @@
     )
   )
 
+
   (junction (at 218.44 99.06) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 226.06 99.06) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 236.22 78.74) (diameter 0.9144) (color 0 0 0 0))
