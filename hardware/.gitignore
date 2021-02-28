@@ -7,3 +7,9 @@ fp-info-cache
 out/
 bom/
 *-backups/
+
+# LTSpice simulations outputs
+simulations/*.log
+simulations/*.raw
+simulations/*.plt
+simulations/*.txt
