@@ -1,0 +1,9 @@
+# KiCad
+*.*-bak
+*.net
+fp-info-cache
+
+# KiCad outputs
+out/
+bom/
+*-backups/
